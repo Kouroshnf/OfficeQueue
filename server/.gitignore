@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+coverage/
+
+# Database
+/db/database.db
+
+# Misc
+.DS_Store
+Thumbs.db
+Desktop.ini
